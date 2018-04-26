@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 
 try:
-    from MotJeux2.func.functions import *
+    from func.functions import *
 except NameError:
     print("Error accessing folders")
 except TypeError:
