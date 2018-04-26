@@ -5,8 +5,8 @@ try:
     import sys
     import os
     from random import shuffle, choice
-    from MotJeux2.connect.recup import *
-    from MotJeux2.connect.insertdb import insertJoeurs
+    from connect.recup import *
+    from connect.insertdb import insertJoeurs
     from string import *
     from time import *
     import datetime
